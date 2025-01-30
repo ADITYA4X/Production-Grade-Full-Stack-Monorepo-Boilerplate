@@ -1,0 +1,6 @@
+﻿node_modules
+build
+dist
+.next
+.env
+.nx
